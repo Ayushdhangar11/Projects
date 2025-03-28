@@ -1,0 +1,3 @@
+cd /d D:\TY_EDI\YOLOv8-Garbage-Overflow-Detection-on-a-Custom-Dataset-Real-Time-Detection-with-Flask-Web-App-main
+python app.py
+python detection_system.py
