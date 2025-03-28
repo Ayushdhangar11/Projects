@@ -12,7 +12,7 @@ running of the operations, and ensuring safety, as the
 existing systems tend to have a lot of gaps. 
 ![image](https://github.com/user-attachments/assets/da02e10b-cf08-4e8b-896e-cdcaf0b1bd36)
 
-#f03c015 How it Works:     
+![#f03c15](https://www.iconsdb.com/icons/download/color/f03c15/circle-16.png) `#f03c15`How it Works:     
 • YOLOv8 processes an image by dividing it into an SxS 
 grid. 
 • For each grid cell, bounding boxes, class probabilities, 
