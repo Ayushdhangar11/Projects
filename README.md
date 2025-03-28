@@ -30,3 +30,11 @@ over Union (IoU) as the parameter.
 STEP 5 : Inference: We get the output as detected objects 
 with bounding boxes along with their class probabilities in 
 real-time.
+![image](https://github.com/user-attachments/assets/f5c3b399-20ec-4d6d-8587-7838cb307c48)
+![image](https://github.com/user-attachments/assets/264cec51-b268-4a75-8167-2de3358f9676)
+![image](https://github.com/user-attachments/assets/539b5ce2-062b-48d8-8fa7-e3716806f4cb)
+
+*References*
+![image](https://github.com/user-attachments/assets/52de06d0-3fc0-4124-9825-e8665ede88e0)
+
+
