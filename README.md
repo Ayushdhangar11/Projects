@@ -1,4 +1,4 @@
-RailGuard-AI
+# RailGuard-AI
 
 An AI system based on state-of-the-art object 
 detection models including YOLOv8, YOLOv8s, YOLO-NAS 
@@ -10,4 +10,6 @@ time management. Thus, equipping railways with this system
 will help in creating better public amenities, improving the 
 running of the operations, and ensuring safety, as the 
 existing systems tend to have a lot of gaps. 
+![image](https://github.com/user-attachments/assets/da02e10b-cf08-4e8b-896e-cdcaf0b1bd36)
+
 
